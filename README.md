@@ -1,4 +1,4 @@
-# changing_room_coding_test
+# Online Scraping Trial
 
 
 I use Beautiful Soup to do this challenge. The website I choose is Reformation. I scrapped 30 items in this notebook. This logic is as follows:
